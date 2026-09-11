@@ -112,6 +112,7 @@
 - Lenovo K5 Play (l38011)
 - Lenovo Tab 4 10x (TB-X304x)
 - Lenovo Tab M10 HD (TB-X505X) (requires flashing [minimal DTBO](#minimal-dtb-overlay))
+- LG G Pad X2 8.0 Plus (tf840) (MSM8940)
 - Medion Lifetab P10610 (Malata)
 - Motorola Moto E4 (perry) (MSM8917)
 - Motorola Moto E4 (perry) (MSM8920)

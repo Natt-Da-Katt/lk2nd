@@ -1,0 +1,18 @@
+// SPDX-License-Identifier: BSD-3-Clause
+
+#include <skeleton64.dtsi>
+#include <lk2nd.dtsi>
+
+/ {
+	qcom,msm-id = <QCOM_ID_MSM8940 0>;
+	qcom,board-id = <0x661 0x00>;
+	compatible = "qcom,msm8940-mtp", "qcom,msm8940", "qcom,mtp";
+};
+
+&lk2nd{
+	model = "LG G Pad X2 8.0 Plus";
+	compatible = "lg,tf840";
+
+	lk2nd,dtb-files = "msm8940-lg-tf840";
+
+};
